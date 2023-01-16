@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahzebrehmankhattak
-- 👀 I’m interested in webdevelopment
+- 👀 I’m front end developer.
 - 🌱 I’m currently learning html,css, javascript,php,mysql,React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 email me @ shahzebkhattak703@gmail.com
